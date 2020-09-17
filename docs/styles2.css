@@ -1,0 +1,40 @@
+.container {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#title {
+    background-color: #ff4c68;
+    color: white;
+}
+
+p {
+    font-size: 14px;
+}
+
+div {
+    margin-bottom: 5px;
+}
+
+h1 {
+    font-size: 100px;
+    text-align: center;
+}
+
+@media screen and (max-width: 700px) {
+    p {
+        font-size: 10px;
+    }
+
+}
+
+@media screen and (max-width: 1000px) {
+    
+    .img-incr {
+        height: 250px;
+    }
+}
+
+hr {
+    border-width: 5px;
+}

@@ -1,0 +1,48 @@
+.container {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+#title {
+    background-color: #ff4c68;
+    color: white;
+}
+
+  .top_img {
+    height: 100px;
+    width: 100px;
+  }
+
+  hr {
+    border-style: solid none none;
+    border-width: 5px;
+    color: green;
+    padding: 0;
+    margin: 5px 0 0 0;
+    
+  }
+
+  p {
+      margin: 10px 0;
+      text-align: left;
+  }
+
+  img {
+      margin: 10px auto;
+  }
+
+  h6 {
+      margin: 10px auto;
+  }
+
+.middle_hr {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
